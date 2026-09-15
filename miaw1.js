@@ -16934,7 +16934,7 @@ function MS() {
                             background: Te,
                             color: Tt
                         },
-                        children: [P.jsx(Wx, {
+                        children: [P.jsx(a0, {
                             className: "h-4 w-4"
                         }), "Check my sosmed"]
                     }), P.jsxs("a", {
