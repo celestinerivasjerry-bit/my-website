@@ -16926,7 +16926,7 @@ function MS() {
                 }), P.jsxs("div", {
                     className: "mt-10 flex flex-wrap gap-4 justify-center",
                     children: [P.jsxs("a", {
-                        href: "https://www.tiktok.com/@mocharimaulana",
+                        href: "https://linktr.ee/arigroupindonesia",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "inline-flex items-center gap-2 rounded-full px-8 py-4 tracking-wide",
@@ -16936,7 +16936,7 @@ function MS() {
                         },
                         children: [P.jsx(Wx, {
                             className: "h-4 w-4"
-                        }), " TikTok"]
+                        }), "Check my sosmed"]
                     }), P.jsxs("a", {
                         href: "#",
                         onClick: n => {
