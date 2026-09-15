@@ -16028,22 +16028,22 @@ const gS = [["path", {
         icon: Yx,
         blurb: "Trendy vertical edits built for reels, shorts, and TikTok virality.",
         videos: [{
-            id: "1OzSBB4lk1a9JaRHlNnrtMcjEUqVt3eEk",
-            href: "https://drive.google.com/file/d/1OzSBB4lk1a9JaRHlNnrtMcjEUqVt3eEk/view?usp=drive_link"
+            id: "1-P_AWb6ZHd8sqITrxiyS_U-ESuikJb41",
+            href: "https://drive.google.com/file/d/1-P_AWb6ZHd8sqITrxiyS_U-ESuikJb41/view?usp=drive_link"
         }, {
-            id: "1GqjVtMGz1NqD2bp7Bo8AeOsQh6EU_S3k",
-            href: "https://drive.google.com/file/d/1GqjVtMGz1NqD2bp7Bo8AeOsQh6EU_S3k/view?usp=drive_link"
+            id: "1ZO89IHcC_UErSb00Zi1vH7J8IV5Unv-f",
+            href: "https://drive.google.com/file/d/1ZO89IHcC_UErSb00Zi1vH7J8IV5Unv-f/view?usp=drive_link"
         }, {
-            id: "14wNrt3l7KzWEGAjX97jME_TPCammDmKv",
-            href: "https://drive.google.com/file/d/14wNrt3l7KzWEGAjX97jME_TPCammDmKv/view?usp=drive_link"
+            id: "1YpHSAaMdvSd86eDEnqEbS2IGtyw9sFCk",
+            href: "https://drive.google.com/file/d/1YpHSAaMdvSd86eDEnqEbS2IGtyw9sFCk/view?usp=drive_link"
         }, {
             id: "1uff-817umSQY1LqjwahzwMctFQItrN6w",
             href: "https://drive.google.com/file/d/1uff-817umSQY1LqjwahzwMctFQItrN6w/view?usp=drive_link"
         }, {
-            id: "1_XM8at2IIW5z8GP-W76kiNne21TS9XCr",
-            href: "https://drive.google.com/file/d/1_XM8at2IIW5z8GP-W76kiNne21TS9XCr/view?usp=drive_link"
+            id: "1WGBlpNBsNGkGBzOum0xa8rniil6sFOsj",
+            href: "https://drive.google.com/file/d/1WGBlpNBsNGkGBzOum0xa8rniil6sFOsj/view?usp=drive_link"
         }],
-        folderLink: "https://drive.google.com/drive/folders/1iYaiRM9ueGFYEYXR9n9aFFVgSM4UqF4V?usp=drive_link",
+        folderLink: "https://drive.google.com/drive/folders/1Up61Jjqp4Z7Y6chVC3iXZu1cf9Z8qekH?usp=drive_link",
         tags: ["Reels", "Shorts", "TikTok"]
     }, {
         category: "Event & Sports",
