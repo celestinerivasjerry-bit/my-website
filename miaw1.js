@@ -16035,10 +16035,7 @@ const gS = [["path", {
             href: "https://drive.google.com/file/d/1ZO89IHcC_UErSb00Zi1vH7J8IV5Unv-f/view?usp=drive_link"
         }, {
             id: "1YpHSAaMdvSd86eDEnqEbS2IGtyw9sFCk",
-            href: "https://drive.google.com/file/d/1YpHSAaMdvSd86eDEnqEbS2IGtyw9sFCk/view?usp=drive_link"
-        }, {
-            id: "1x3KEjgsKyUD-aYAv4x9GMa1kl2E-xVZe",
-            href: "https://drive.google.com/file/d/1x3KEjgsKyUD-aYAv4x9GMa1kl2E-xVZe/view?usp=drive_link"
+            href: "https://drive.google.com/file/d/1YpHSAaMdvSd86eDEnqEbS2IGtyw9sFCk/view?usp=drive_link"   
         }, {
             id: "1WGBlpNBsNGkGBzOum0xa8rniil6sFOsj",
             href: "https://drive.google.com/file/d/1WGBlpNBsNGkGBzOum0xa8rniil6sFOsj/view?usp=drive_link"
