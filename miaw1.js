@@ -16024,7 +16024,7 @@ const gS = [["path", {
     }]
     , kS = ["After Effects", "CapCut", "Canva", "Photoshop"]
     , TS = [{
-        category: "Social Media",
+        category: "Short-Form Content",
         icon: Yx,
         blurb: "Trendy vertical edits built for reels, shorts, and TikTok virality.",
         videos: [{
@@ -16046,9 +16046,9 @@ const gS = [["path", {
         folderLink: "https://drive.google.com/drive/folders/1iYaiRM9ueGFYEYXR9n9aFFVgSM4UqF4V?usp=drive_link",
         tags: ["Reels", "Shorts", "TikTok"]
     }, {
-        category: "Cinematic / Highlights",
+        category: "Event & Sports",
         icon: cS,
-        blurb: "Event coverage and aesthetic shots cut into cinematic showpieces.",
+        blurb: "High-energy event coverage and fast-paced action shots cut into dynamic showpieces.",
         videos: [{
             id: "1Twt_NrdNU3LErKyKB7cNYC_5kWsAh4kh",
             href: "https://drive.google.com/file/d/1Twt_NrdNU3LErKyKB7cNYC_5kWsAh4kh/view?usp=drive_link"
@@ -16063,11 +16063,11 @@ const gS = [["path", {
             href: "https://drive.google.com/file/d/1RMrNZ9g0UkZnNpSr6-KouT2CarlD-VbT/view?usp=drive_link"
         }],
         folderLink: "https://drive.google.com/drive/folders/1TkxfBEypAcA9KnjPKQirLvzs7Znjvy5X?usp=drive_link",
-        tags: ["Events", "Travel", "Brand"]
+        tags: ["Road Race", "Events", "Action"]
     }, {
-        category: "Educational",
+        category: "Educational & Info",
         icon: Gx,
-        blurb: "Informative, graphic-heavy content built to teach and engage.",
+        blurb: "Informative, graphic-heavy content and academic projects built to teach and engage.",
         videos: [{
             id: "16gE8VhYEtvPGNnYAzO0Zw3pWQWvJ9zvH",
             href: "https://drive.google.com/file/d/16gE8VhYEtvPGNnYAzO0Zw3pWQWvJ9zvH/view?usp=drive_link"
@@ -16079,11 +16079,11 @@ const gS = [["path", {
             href: "https://drive.google.com/file/d/1iGkiV1y726LEY5wPa8ZZRbZtXCNFXAnk/view?usp=drive_link"
         }],
         folderLink: "https://drive.google.com/drive/folders/16N5fyLx39Z8PJIEVDVKmhANTPpT7UtG1?usp=drive_link",
-        tags: ["Explainer", "Tutorial", "Lecture"]
+        tags: ["Fakta Unik", "Tugas Kuliah", "Explainer"]
     }, {
         category: "Motion Graphics",
         icon: oS,
-        blurb: "Animated graphics and kinetic effects that add polish and clarity to any edit.",
+        blurb: "Animated graphics, basic 2D elements, and clean kinetic typography to polish any video.",
         videos: [{
             id: "1LO2APWHBA9xHSpfUvEPlKToQixFtscKo",
             href: "https://drive.google.com/file/d/1LO2APWHBA9xHSpfUvEPlKToQixFtscKo/view?usp=drive_link"
@@ -16095,11 +16095,11 @@ const gS = [["path", {
             href: "https://drive.google.com/file/d/1rfotZKI96MZFhvhz5yVfeCWqpkTMH32c/view?usp=drive_link"
         }],
         folderLink: "https://drive.google.com/drive/folders/1fdafIqLkfytSka7_UW8GGMdnFWfmx6IY?usp=drive_link",
-        tags: ["Animation", "Kinetic Type", "VFX"]
+        tags: ["Motion", "Animation", "Titles"]
     }, {
-        category: "UGC / Ads",
+        category: "Creative & Contest",
         icon: Zx,
-        blurb: "Authentic, conversion-focused ad edits built for brands and product drops.",
+        blurb: "Concept-driven video projects and competition entries designed for impact and storytelling.",
         videos: [{
             id: "11Irb6QcS41ofYMAcCLeN-dzH-xisaoCS",
             href: "https://drive.google.com/file/d/11Irb6QcS41ofYMAcCLeN-dzH-xisaoCS/view?usp=drive_link"
@@ -16111,17 +16111,17 @@ const gS = [["path", {
             href: "https://drive.google.com/file/d/1j3iHA3a3oD9dKjrhjw3LQ66y4rzUcd0v/view?usp=drive_link"
         }],
         folderLink: "https://drive.google.com/drive/folders/1MmC_H5EJRu-OM0pncZOcTlzwmPAVFB3p?usp=drive_link",
-        tags: ["UGC", "Ads", "Product"]
+        tags: ["Video Competition", "Creative", "Short Film"]
     }, {
-        category: "Reels / Short Form",
+        category: "YouTube & Long-Form",
         icon: aS,
-        blurb: "Punchy short-form reels edited for scroll-stopping engagement.",
+        blurb: "Engaging YouTube content with structured storytelling, clean audio mixing, and pacing.",
         videos: [{
             id: "1WWXIyRgaFSI8Zy7kd5z0LUU_MlX0GfFt",
             href: "https://drive.google.com/file/d/1WWXIyRgaFSI8Zy7kd5z0LUU_MlX0GfFt/view?usp=drive_link"
         }],
         folderLink: "https://drive.google.com/drive/folders/1ICYNKx749Zxmx66TZOn2VI0bJZ7yHM2V?usp=drive_link",
-        tags: ["Reels", "Short-form", "Vertical"]
+        tags: ["YouTube", "Documentary", "Vlog"]
     }];
 function CS({ category: n, icon: r, blurb: s, videos: l, folderLink: c, tags: d, index: f }) {
     const [p, m] = K.useState(0)
