@@ -16047,17 +16047,14 @@ const gS = [["path", {
         icon: cS,
         blurb: "High-energy event coverage and fast-paced action shots cut into dynamic showpieces.",
         videos: [{
-            id: "1Twt_NrdNU3LErKyKB7cNYC_5kWsAh4kh",
-            href: "https://drive.google.com/file/d/1Twt_NrdNU3LErKyKB7cNYC_5kWsAh4kh/view?usp=drive_link"
+            id: "1Pp8IaHCHKYY-cDaG-RFvVRIjB4X-aa0J",
+            href: "https://drive.google.com/file/d/1Pp8IaHCHKYY-cDaG-RFvVRIjB4X-aa0J/view?usp=drive_link"
         }, {
-            id: "1NvZiwbLLxz_Q0ZXtv-e4ByEDMCfTzJ5E",
-            href: "https://drive.google.com/file/d/1NvZiwbLLxz_Q0ZXtv-e4ByEDMCfTzJ5E/view?usp=drive_link"
+            id: "19y7-24B09pand2i_lw8rXpN2Q50828Hz",
+            href: "https://drive.google.com/file/d/19y7-24B09pand2i_lw8rXpN2Q50828Hz/view?usp=drive_link"
         }, {
-            id: "1bknkRjCmisouqzgiysklK8m92_xUvM25",
-            href: "https://drive.google.com/file/d/1bknkRjCmisouqzgiysklK8m92_xUvM25/view?usp=drive_link"
-        }, {
-            id: "1RMrNZ9g0UkZnNpSr6-KouT2CarlD-VbT",
-            href: "https://drive.google.com/file/d/1RMrNZ9g0UkZnNpSr6-KouT2CarlD-VbT/view?usp=drive_link"
+            id: "1m3KT1Hosg_fMd7uupGcj-1lBMqxxgX_U",
+            href: "https://drive.google.com/file/d/1m3KT1Hosg_fMd7uupGcj-1lBMqxxgX_U/view?usp=drive_link"
         }],
         folderLink: "https://drive.google.com/drive/folders/1TkxfBEypAcA9KnjPKQirLvzs7Znjvy5X?usp=drive_link",
         tags: ["Road Race", "Events", "Action"]
