@@ -16056,55 +16056,46 @@ const gS = [["path", {
             id: "1m3KT1Hosg_fMd7uupGcj-1lBMqxxgX_U",
             href: "https://drive.google.com/file/d/1m3KT1Hosg_fMd7uupGcj-1lBMqxxgX_U/view?usp=drive_link"
         }],
-        folderLink: "https://drive.google.com/drive/folders/1TkxfBEypAcA9KnjPKQirLvzs7Znjvy5X?usp=drive_link",
-        tags: ["Road Race", "Events", "Action"]
+        folderLink: "https://drive.google.com/drive/folders/1zlN5fKRcBV8isaI-sM_8cFviSgl1OdW0?usp=drive_link",
+        tags: ["Road Race 2018", "Events", "Action"]
     }, {
         category: "Educational & Info",
         icon: Gx,
         blurb: "Informative, graphic-heavy content and academic projects built to teach and engage.",
         videos: [{
-            id: "16gE8VhYEtvPGNnYAzO0Zw3pWQWvJ9zvH",
-            href: "https://drive.google.com/file/d/16gE8VhYEtvPGNnYAzO0Zw3pWQWvJ9zvH/view?usp=drive_link"
+            id: "1AzrQCdnbxx8LxNQLYztoFN9IbSuTDXx7",
+            href: "https://drive.google.com/file/d/1AzrQCdnbxx8LxNQLYztoFN9IbSuTDXx7/view?usp=drive_link"
         }, {
-            id: "1A2GEMLSyg3ftqula86zedDKYjCmIrR6w",
-            href: "https://drive.google.com/file/d/1A2GEMLSyg3ftqula86zedDKYjCmIrR6w/view?usp=drive_link"
+            id: "1Sv0tH_bjBxH53AaWrbX504lO9dSNmBPZ",
+            href: "https://drive.google.com/file/d/1Sv0tH_bjBxH53AaWrbX504lO9dSNmBPZ/view?usp=drive_link"
         }, {
-            id: "1iGkiV1y726LEY5wPa8ZZRbZtXCNFXAnk",
-            href: "https://drive.google.com/file/d/1iGkiV1y726LEY5wPa8ZZRbZtXCNFXAnk/view?usp=drive_link"
+            id: "1aDwqgXhJDcpcPLKK6js4U_rqw6NUtk1L",
+            href: "https://drive.google.com/file/d/1aDwqgXhJDcpcPLKK6js4U_rqw6NUtk1L/view?usp=drive_link"
         }],
-        folderLink: "https://drive.google.com/drive/folders/16N5fyLx39Z8PJIEVDVKmhANTPpT7UtG1?usp=drive_link",
+        folderLink: "https://drive.google.com/drive/folders/1qqCUdAdmrKzLSAgMCTr3A8xfATrUmi8V?usp=drive_link",
         tags: ["Fakta Unik", "Tugas Kuliah", "Explainer"]
     }, {
         category: "Motion Graphics",
         icon: oS,
         blurb: "Animated graphics, basic 2D elements, and clean kinetic typography to polish any video.",
         videos: [{
-            id: "1LO2APWHBA9xHSpfUvEPlKToQixFtscKo",
-            href: "https://drive.google.com/file/d/1LO2APWHBA9xHSpfUvEPlKToQixFtscKo/view?usp=drive_link"
+            id: "1fPR-vDREfKKhtTe061SW_-XTygwyoN4D",
+            href: "https://drive.google.com/file/d/1fPR-vDREfKKhtTe061SW_-XTygwyoN4D/view?usp=drive_link"
         }, {
-            id: "1FrpbnWRom6iu-X92zQ3mVgBLPdirW4dw",
-            href: "https://drive.google.com/file/d/1FrpbnWRom6iu-X92zQ3mVgBLPdirW4dw/view?usp=drive_link"
-        }, {
-            id: "1rfotZKI96MZFhvhz5yVfeCWqpkTMH32c",
-            href: "https://drive.google.com/file/d/1rfotZKI96MZFhvhz5yVfeCWqpkTMH32c/view?usp=drive_link"
+            id: "1H-FpDRbaueItgJmNHtv_7_ZTeetpMtZM",
+            href: "https://drive.google.com/file/d/1H-FpDRbaueItgJmNHtv_7_ZTeetpMtZM/view?usp=drive_link"
         }],
-        folderLink: "https://drive.google.com/drive/folders/1fdafIqLkfytSka7_UW8GGMdnFWfmx6IY?usp=drive_link",
+        folderLink: "https://drive.google.com/drive/folders/1Sj57FQ4I9-4xNpsQEYUVwlkyhKvJp9U2?usp=drive_link",
         tags: ["Motion", "Animation", "Titles"]
     }, {
         category: "Creative & Contest",
         icon: Zx,
         blurb: "Concept-driven video projects and competition entries designed for impact and storytelling.",
         videos: [{
-            id: "11Irb6QcS41ofYMAcCLeN-dzH-xisaoCS",
-            href: "https://drive.google.com/file/d/11Irb6QcS41ofYMAcCLeN-dzH-xisaoCS/view?usp=drive_link"
-        }, {
-            id: "1dI4RG1ppiJJp9zY2F-b-NdBb6v1ETvwY",
-            href: "https://drive.google.com/file/d/1dI4RG1ppiJJp9zY2F-b-NdBb6v1ETvwY/view?usp=drive_link"
-        }, {
-            id: "1j3iHA3a3oD9dKjrhjw3LQ66y4rzUcd0v",
-            href: "https://drive.google.com/file/d/1j3iHA3a3oD9dKjrhjw3LQ66y4rzUcd0v/view?usp=drive_link"
+            id: "1azD_8fopuPGEJWrD8Zs3UHm1bs8YUobF",
+            href: "https://drive.google.com/file/d/1azD_8fopuPGEJWrD8Zs3UHm1bs8YUobF/view?usp=drive_link"
         }],
-        folderLink: "https://drive.google.com/drive/folders/1MmC_H5EJRu-OM0pncZOcTlzwmPAVFB3p?usp=drive_link",
+        folderLink: "https://drive.google.com/drive/folders/1iGqMtG-5d94HYLRTBbh_oGAvNicQhvN6?usp=drive_link",
         tags: ["Video Competition", "Creative", "Short Film"]
     }, {
         category: "YouTube & Long-Form",
