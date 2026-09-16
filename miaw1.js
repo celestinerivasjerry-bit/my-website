@@ -16102,10 +16102,10 @@ const gS = [["path", {
         icon: aS,
         blurb: "Engaging YouTube content with structured storytelling, clean audio mixing, and pacing.",
         videos: [{
-            id: "1WWXIyRgaFSI8Zy7kd5z0LUU_MlX0GfFt",
-            href: "https://drive.google.com/file/d/1WWXIyRgaFSI8Zy7kd5z0LUU_MlX0GfFt/view?usp=drive_link"
+            id: "1UE9aAKQvV2-fcG3dmb8pmya1iZu3i2Zi",
+            href: "https://drive.google.com/file/d/1UE9aAKQvV2-fcG3dmb8pmya1iZu3i2Zi/view?usp=drive_link"
         }],
-        folderLink: "https://drive.google.com/drive/folders/1ICYNKx749Zxmx66TZOn2VI0bJZ7yHM2V?usp=drive_link",
+        folderLink: "https://drive.google.com/drive/folders/1Jm-X6CZ0vE8aD4xCHC2i5g6bAZaYlt5F?usp=drive_link",
         tags: ["YouTube", "Documentary", "Vlog"]
     }];
 function CS({ category: n, icon: r, blurb: s, videos: l, folderLink: c, tags: d, index: f }) {
