@@ -16005,7 +16005,7 @@ const gS = [["path", {
 }]]
     , vS = Ie("x", gS)
     , wS = "/fotoku.jpeg"
-    , xS = "/assets/coba.mp4"
+    , xS = "/videoku.mp4"
     , Tt = "#202020"
     , mr = ["arimaulana18a", "gmail", "com"]
     , Te = "#ffee01"
